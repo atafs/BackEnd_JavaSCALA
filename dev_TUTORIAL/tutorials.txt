@@ -1,5 +1,13 @@
+//DONE ###############################################
 //Install Scala in Ubuntu & Run Sample program
 https://www.youtube.com/watch?v=dFPKKgEtDlc
+
+//TOSEE ###############################################
+
+//1 VIDEO: Scala Tutorial
+https://www.youtube.com/watch?v=DzFt0YkZo8M
+... min 45:00
+... script _012
 
 //LIST 120 VIDEOS
 https://www.youtube.com/playlist?list=PL0B0820169DCF0AD2
